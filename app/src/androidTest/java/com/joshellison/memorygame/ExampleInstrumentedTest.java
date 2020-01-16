@@ -1,4 +1,4 @@
-package com.example.memorygame;
+package com.joshellison.memorygame;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.example.memorygame", appContext.getPackageName());
+        assertEquals("com.joshellison.memorygame", appContext.getPackageName());
     }
 }
